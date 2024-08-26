@@ -1,0 +1,3 @@
+module LOGGING {
+	exports Logging;
+}
